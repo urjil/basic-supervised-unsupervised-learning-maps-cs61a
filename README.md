@@ -1,7 +1,7 @@
 # maps
 This is a project that I implemented for my CS61A class.
 
-In this project, I created a visualization of restaurant ratings using basic machine learning and the Yelp academic dataset. 
+In this project, I created a visualization of restaurant ratings using basic machine learning (supervised and unsupervised learning) and the Yelp academic dataset. 
 In this visualization, Berkeley is segmented into regions, where each region is shaded by the predicted rating of the closest restaurant (yellow is 5 stars, blue is 1 star).
 Specifically, the visualization constructed is a Voronoi diagram.
 
